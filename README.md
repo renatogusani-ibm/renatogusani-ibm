@@ -1,5 +1,5 @@
 
-<img src="https://github.com/renatogusani-ibm/pics/Yoda Meme.png"> "welcome 😄"
+<img src="https://github.com/renatogusani-ibm/pics/Yoda Meme.png"> 
 
 <!--
 **renatogusani-ibm/renatogusani-ibm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
