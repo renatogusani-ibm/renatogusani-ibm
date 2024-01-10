@@ -1,5 +1,4 @@
-![😄](renatogusani-ibm/pics
-/Yoda Meme.webp)
+
 
 ![yoda meme](https://github.com/renatogusani-ibm/pics/Yoda Meme.png "welcome 😄")
 
