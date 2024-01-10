@@ -1,6 +1,9 @@
 ![😄](renatogusani-ibm/pics
 /Yoda Meme.webp)
 
+![yoda meme](https://github.com/renatogusani-ibm/pics
+/Yoda Meme.webp "welcome 😄")
+
 <!--
 **renatogusani-ibm/renatogusani-ibm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
